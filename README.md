@@ -105,6 +105,11 @@ Mexico:
 * Mexico City
  - [Rust MX](https://www.meetup.com/Rust-MX/)
 
+Philippines:
+
+* Manila:
+ - [Mozilla Philippines](https://www.meetup.com/Mozilla-Philippines-Community/)
+
 The Netherlands:
 
 * Amsterdam
